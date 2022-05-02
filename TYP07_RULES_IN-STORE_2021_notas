@@ -1,0 +1,714 @@
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV NORTE
+ Store type: GSB
+ Store number: 1
+ Store name: GONDOMAR
+ Total number of transactions: 63018
+ Transaction items: 287090
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (6456, 9)
+ Shape of rules with metric conditions: (2101, 21)
+ Shape of filtered rules: (1511, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: GSB
+ Store number: 2
+ Store name: SINTRA
+ Total number of transactions: 116724
+ Transaction items: 677041
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (12176, 9)
+ Shape of rules with metric conditions: (3536, 21)
+ Shape of filtered rules: (2673, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV MARGEM SUL
+ Store type: GSB
+ Store number: 3
+ Store name: ALMADA
+ Total number of transactions: 96395
+ Transaction items: 516685
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (12984, 9)
+ Shape of rules with metric conditions: (4441, 21)
+ Shape of filtered rules: (3376, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: GSB
+ Store number: 4
+ Store name: ALBUFEIRA
+ Total number of transactions: 53330
+ Transaction items: 311577
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (9790, 9)
+ Shape of rules with metric conditions: (2285, 21)
+ Shape of filtered rules: (1492, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: GSB
+ Store number: 5
+ Store name: ALFRAGIDE
+ Total number of transactions: 120754
+ Transaction items: 724364
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (12238, 9)
+ Shape of rules with metric conditions: (2984, 21)
+ Shape of filtered rules: (1593, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: GSB
+ Store number: 6
+ Store name: MATOSINHOS
+ Total number of transactions: 67201
+ Transaction items: 316860
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (6002, 9)
+ Shape of rules with metric conditions: (1761, 21)
+ Shape of filtered rules: (1352, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: GSB
+ Store number: 7
+ Store name: AMADORA
+ Total number of transactions: 73273
+ Transaction items: 370181
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (12060, 9)
+ Shape of rules with metric conditions: (4205, 21)
+ Shape of filtered rules: (3556, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: GSB
+ Store number: 8
+ Store name: MAIA
+ Total number of transactions: 51519
+ Transaction items: 238409
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (8954, 9)
+ Shape of rules with metric conditions: (3351, 21)
+ Shape of filtered rules: (3058, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO NORTE
+ Store type: GSB
+ Store number: 9
+ Store name: COIMBRA
+ Total number of transactions: 64667
+ Transaction items: 334904
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (6682, 9)
+ Shape of rules with metric conditions: (1665, 21)
+ Shape of filtered rules: (1179, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV NORTE
+ Store type: GSB
+ Store number: 10
+ Store name: GAIA
+ Total number of transactions: 64697
+ Transaction items: 276608
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4630, 9)
+ Shape of rules with metric conditions: (1374, 21)
+ Shape of filtered rules: (1017, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: GSB
+ Store number: 11
+ Store name: BRAGA
+ Total number of transactions: 56077
+ Transaction items: 267762
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (5038, 9)
+ Shape of rules with metric conditions: (1250, 21)
+ Shape of filtered rules: (783, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: GSB
+ Store number: 12
+ Store name: LOULE
+ Total number of transactions: 54107
+ Transaction items: 335712
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (12038, 9)
+ Shape of rules with metric conditions: (2961, 21)
+ Shape of filtered rules: (1524, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO SUL
+ Store type: GSB
+ Store number: 13
+ Store name: LEIRIA
+ Total number of transactions: 54585
+ Transaction items: 274065
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (5082, 9)
+ Shape of rules with metric conditions: (898, 21)
+ Shape of filtered rules: (602, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO NORTE
+ Store type: GSB
+ Store number: 14
+ Store name: AVEIRO
+ Total number of transactions: 50201
+ Transaction items: 250568
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (6680, 9)
+ Shape of rules with metric conditions: (1973, 21)
+ Shape of filtered rules: (1527, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: GSB
+ Store number: 16
+ Store name: FUNCHAL GSB
+ Total number of transactions: 15294
+ Transaction items: 86198
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (9420, 9)
+ Shape of rules with metric conditions: (1636, 21)
+ Shape of filtered rules: (779, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: GSB
+ Store number: 17
+ Store name: ALTA DE LISBOA
+ Total number of transactions: 31255
+ Transaction items: 162183
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (7416, 9)
+ Shape of rules with metric conditions: (1737, 21)
+ Shape of filtered rules: (919, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO SUL
+ Store type: GSB
+ Store number: 18
+ Store name: SANTAREM
+ Total number of transactions: 35769
+ Transaction items: 175277
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (7020, 9)
+ Shape of rules with metric conditions: (1892, 21)
+ Shape of filtered rules: (1363, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: MSB
+ Store number: 31
+ Store name: TORRES VEDRAS
+ Total number of transactions: 32422
+ Transaction items: 146720
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4554, 9)
+ Shape of rules with metric conditions: (946, 21)
+ Shape of filtered rules: (599, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: MSB
+ Store number: 33
+ Store name: GUIMARAES
+ Total number of transactions: 31879
+ Transaction items: 131592
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3690, 9)
+ Shape of rules with metric conditions: (916, 21)
+ Shape of filtered rules: (692, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV MARGEM SUL
+ Store type: MSB
+ Store number: 34
+ Store name: MONTIJO
+ Total number of transactions: 36678
+ Transaction items: 169519
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (8346, 9)
+ Shape of rules with metric conditions: (3121, 21)
+ Shape of filtered rules: (2503, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: PROXI
+ Store number: 35
+ Store name: TELHEIRAS
+ Total number of transactions: 5182
+ Transaction items: 16764
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (1942, 9)
+ Shape of rules with metric conditions: (341, 21)
+ Shape of filtered rules: (187, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV MARGEM SUL
+ Store type: GSB
+ Store number: 36
+ Store name: SETUBAL
+ Total number of transactions: 47298
+ Transaction items: 236023
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (5932, 9)
+ Shape of rules with metric conditions: (1230, 21)
+ Shape of filtered rules: (706, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: PROXI
+ Store number: 38
+ Store name: CASCAIS
+ Total number of transactions: 29143
+ Transaction items: 138093
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4880, 9)
+ Shape of rules with metric conditions: (852, 21)
+ Shape of filtered rules: (367, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: PROXI
+ Store number: 39
+ Store name: COLOMBO
+ Total number of transactions: 22819
+ Transaction items: 81344
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2438, 9)
+ Shape of rules with metric conditions: (299, 21)
+ Shape of filtered rules: (146, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: PROXI
+ Store number: 40
+ Store name: PARQUE DAS NACOES
+ Total number of transactions: 15152
+ Transaction items: 60244
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3590, 9)
+ Shape of rules with metric conditions: (609, 21)
+ Shape of filtered rules: (259, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: PROXI
+ Store number: 41
+ Store name: PORTO
+ Total number of transactions: 10244
+ Transaction items: 34867
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2038, 9)
+ Shape of rules with metric conditions: (330, 21)
+ Shape of filtered rules: (162, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO NORTE
+ Store type: MSB
+ Store number: 43
+ Store name: VISEU
+ Total number of transactions: 22642
+ Transaction items: 99578
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3864, 9)
+ Shape of rules with metric conditions: (717, 21)
+ Shape of filtered rules: (420, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: MSB
+ Store number: 44
+ Store name: LOURES
+ Total number of transactions: 25172
+ Transaction items: 94537
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2714, 9)
+ Shape of rules with metric conditions: (618, 21)
+ Shape of filtered rules: (436, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: PROXI
+ Store number: 45
+ Store name: FARO
+ Total number of transactions: 12462
+ Transaction items: 42737
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (1620, 9)
+ Shape of rules with metric conditions: (233, 21)
+ Shape of filtered rules: (148, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV MARGEM SUL
+ Store type: MSB
+ Store number: 46
+ Store name: EVORA
+ Total number of transactions: 21941
+ Transaction items: 102008
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4776, 9)
+ Shape of rules with metric conditions: (801, 21)
+ Shape of filtered rules: (368, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: MSB
+ Store number: 47
+ Store name: VIANA DO CASTELO
+ Total number of transactions: 15435
+ Transaction items: 58966
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2316, 9)
+ Shape of rules with metric conditions: (445, 21)
+ Shape of filtered rules: (320, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: PROXI
+ Store number: 48
+ Store name: FUNCHAL
+ Total number of transactions: 21062
+ Transaction items: 85477
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2914, 9)
+ Shape of rules with metric conditions: (517, 21)
+ Shape of filtered rules: (260, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: PROXI
+ Store number: 49
+ Store name: ALVERCA
+ Total number of transactions: 16801
+ Transaction items: 59649
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2044, 9)
+ Shape of rules with metric conditions: (319, 21)
+ Shape of filtered rules: (101, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: MSB
+ Store number: 50
+ Store name: PORTIMAO
+ Total number of transactions: 30908
+ Transaction items: 131466
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4174, 9)
+ Shape of rules with metric conditions: (788, 21)
+ Shape of filtered rules: (518, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: MSB
+ Store number: 51
+ Store name: PENAFIEL
+ Total number of transactions: 21895
+ Transaction items: 85379
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3564, 9)
+ Shape of rules with metric conditions: (955, 21)
+ Shape of filtered rules: (788, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV NORTE
+ Store type: PROXI
+ Store number: 52
+ Store name: SANTA MARIA DA FEIRA
+ Total number of transactions: 17711
+ Transaction items: 61306
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (1776, 9)
+ Shape of rules with metric conditions: (342, 21)
+ Shape of filtered rules: (173, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO NORTE
+ Store type: PROXI
+ Store number: 54
+ Store name: GUARDA
+ Total number of transactions: 12532
+ Transaction items: 49665
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3998, 9)
+ Shape of rules with metric conditions: (1108, 21)
+ Shape of filtered rules: (892, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV MARGEM SUL
+ Store type: PROXI
+ Store number: 55
+ Store name: BARREIRO
+ Total number of transactions: 32384
+ Transaction items: 131492
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2672, 9)
+ Shape of rules with metric conditions: (429, 21)
+ Shape of filtered rules: (182, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO NORTE
+ Store type: PROXI
+ Store number: 56
+ Store name: FIGUEIRA DA FOZ
+ Total number of transactions: 14260
+ Transaction items: 55229
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (17630, 9)
+ Shape of rules with metric conditions: (14535, 21)
+ Shape of filtered rules: (278, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO SUL
+ Store type: MSB
+ Store number: 57
+ Store name: CALDAS DA RAINHA
+ Total number of transactions: 30140
+ Transaction items: 139006
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4860, 9)
+ Shape of rules with metric conditions: (1000, 21)
+ Shape of filtered rules: (645, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: PROXI
+ Store number: 58
+ Store name: MAFRA
+ Total number of transactions: 12226
+ Transaction items: 51009
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3186, 9)
+ Shape of rules with metric conditions: (497, 21)
+ Shape of filtered rules: (267, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV NORTE
+ Store type: PROXI
+ Store number: 59
+ Store name: BRAGANCA
+ Total number of transactions: 10417
+ Transaction items: 40705
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3748, 9)
+ Shape of rules with metric conditions: (1030, 21)
+ Shape of filtered rules: (763, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: MSB
+ Store number: 60
+ Store name: OEIRAS
+ Total number of transactions: 31293
+ Transaction items: 138671
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4606, 9)
+ Shape of rules with metric conditions: (849, 21)
+ Shape of filtered rules: (490, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO SUL
+ Store type: PROXI
+ Store number: 61
+ Store name: TORRES NOVAS
+ Total number of transactions: 14504
+ Transaction items: 52016
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2228, 9)
+ Shape of rules with metric conditions: (441, 21)
+ Shape of filtered rules: (236, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO NORTE
+ Store type: PROXI
+ Store number: 62
+ Store name: PALACIO DO GELO
+ Total number of transactions: 9072
+ Transaction items: 27487
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (1026, 9)
+ Shape of rules with metric conditions: (157, 21)
+ Shape of filtered rules: (115, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV CENTRO SUL
+ Store type: PROXI
+ Store number: 63
+ Store name: CASTELO BRANCO
+ Total number of transactions: 10916
+ Transaction items: 45821
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3830, 9)
+ Shape of rules with metric conditions: (578, 21)
+ Shape of filtered rules: (313, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA ESTE
+ Store type: PROXI
+ Store number: 65
+ Store name: SACAVEM
+ Total number of transactions: 12647
+ Transaction items: 47668
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2716, 9)
+ Shape of rules with metric conditions: (466, 21)
+ Shape of filtered rules: (166, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV ALGARVE E ILHAS
+ Store type: PROXI
+ Store number: 66
+ Store name: PONTA DELGADA
+ Total number of transactions: 19989
+ Transaction items: 75705
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (3114, 9)
+ Shape of rules with metric conditions: (688, 21)
+ Shape of filtered rules: (516, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV NORTE
+ Store type: PROXI
+ Store number: 67
+ Store name: CHAVES
+ Total number of transactions: 9110
+ Transaction items: 36360
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (4788, 9)
+ Shape of rules with metric conditions: (1481, 21)
+ Shape of filtered rules: (1072, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV LISBOA OESTE
+ Store type: PROXI
+ Store number: 68
+ Store name: LOURES SHOPPING
+ Total number of transactions: 1240
+ Transaction items: 4152
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (6778, 9)
+ Shape of rules with metric conditions: (3394, 21)
+ Shape of filtered rules: (1282, 21)
+--------------------------------------------------------------
+Rules for 
+ Purchase type: IN-STORE
+ Year: 2021
+ Region: ZDV PORTO
+ Store type: MSB
+ Store number: 69
+ Store name: BARCELOS
+ Total number of transactions: 9662
+ Transaction items: 35784
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (2960, 9)
+ Shape of rules with metric conditions: (770, 21)
+ Shape of filtered rules: (582, 21)
+--------------------------------------------------------------

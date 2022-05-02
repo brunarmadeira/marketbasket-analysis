@@ -1,0 +1,10 @@
+Rules for 
+ Purchase type: ONLINE
+ Year: 2021
+ Total number of transactions: 36590
+ Transaction items: 96037
+ Applying apriori algorithm with minimum support = 0.001
+ Shape after apriori: (1814, 9)
+ Shape of rules with metric conditions: (622, 17)
+ Shape of filtered rules: (589, 17)
+--------------------------------------------------------------
